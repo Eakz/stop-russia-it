@@ -21,7 +21,7 @@
 
 ##### 24 февраля 2022 года РФ коварно напала на независимую Украину. Они ведут грязную информационную войну против всего мира и открытую войну на территории Украины.
 
-##### Сейчас публичные хостинги ИТ-проектов, менеджеры пакетов, форуми, CDN и другие ресурси, созданные для блага специалистов ИТ-сектора и удобства работи, ипользуются для ведения войны и уничтожения мирного населения. Считаем, что такие ресурси позволяют распространять ложную информацию на територии РФ и могут быть использованны для ведения боевых действий, а именно исходный код, програмное обеспечение, другие виды цифровой информации. Также эти ресурсы позволяют финансировать и продолжать войну РФ с помощью ИТ-сектора.
+##### Сейчас публичные хостинги ИТ-проектов, менеджеры пакетов, форумы, CDN и другие ресурсы, созданные для блага специалистов ИТ-сектора и удобства работы, ипользуются для ведения войны и уничтожения мирного населения. Считаем, что такие ресурсы позволяют распространять ложную информацию на территории РФ и могут быть использованы для ведения боевых действий, а именно исходный код, программное обеспечение, другие виды цифровой информации. Также эти ресурсы позволяют финансировать и продолжать войну РФ с помощью ИТ-сектора.
 
 ## Мы призываем не помогать ИТ-сектору РФ в какой-либо деятельности.
 
@@ -33,9 +33,9 @@
 <table>
    <thead>
       <tr>
-         <th>Имя</th>
-         <th>CEO Twitter</th>
-         <th>CEO Linkedin</th>
+         <th>Название</th>
+         <th>Контактное лицо #1</th>
+         <th>Контактное лицо #2</th>
          <th>Голосование</th>
          <th align="center">
             Вместе с
@@ -108,8 +108,8 @@
          <td><a href="https://rubygems.org/" rel="nofollow">RubyGems</a></td>
          <td></td>
          <td></td>
-         <td></td>
-         <td align="center"></td>
+         <td><a href="https://github.com/rubygems/rubygems.org/issues/2977">Rubygems.org не планирует банить россию</a></td>
+         <td align="center">❌</td>
       </tr>
       <tr>
          <td><a href="https://bower.io/" rel="nofollow">bower</a></td>
@@ -195,9 +195,9 @@
 <table>
    <thead>
       <tr>
-         <th>Имя</th>
-         <th>CEO Twitter</th>
-         <th>CEO Linkedin</th>
+         <th>Название</th>
+         <th>Контактное лицо #1</th>
+         <th>Контактное лицо #2</th>
          <th>Голосование</th>
          <th align="center">
             Вместе с
@@ -218,7 +218,11 @@
          <td><a href="https://twitter.com/sytses" rel="nofollow">Sid Sijbrandij</a></td>
          <td><a href="https://www.linkedin.com/in/sijbrandij/" rel="nofollow">Sid Sijbrandij</a></td>
          <td></td>
-         <td align="center"></td>
+         <td align="center">
+            <a href="https://about.gitlab.com/blog/2022/03/11/gitlab-actions-to-date-regarding-russian-invasion-of-ukraine/" rel="nofollow">
+               <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
+            </a>
+         </td>
       </tr>
       <tr>
          <td><a href="https://bitbucket.org/" rel="nofollow">Bitbucket</a></td>
@@ -259,13 +263,13 @@
    </tbody>
 </table>
 
-### Дизаин
+### Дизайн
 <table>
    <thead>
       <tr>
-         <th>Имя</th>
-         <th>CEO Twitter</th>
-         <th>CEO Linkedin</th>
+         <th>Название</th>
+         <th>Контактное лицо #1</th>
+         <th>Контактное лицо #2</th>
          <th>Голосование</th>
          <th align="center">
             Вместе с
@@ -279,7 +283,11 @@
          <td><a href="https://twitter.com/figma" rel="nofollow">Figma</a> - <a href="https://twitter.com/zoink" rel="nofollow">Dylan Field</a> - <a href="https://twitter.com/evanwallace" rel="nofollow">Evan Wallace</a></td>
          <td><a href="https://www.linkedin.com/in/dylanfield/" rel="nofollow">Dylan Field</a></td>
          <td><a href="https://forum.figma.com/t/ukrainian-people-are-dying-close-figma-in-russia/15263" rel="nofollow">Голосование закрыто</a></td>
-         <td align="center"></td>
+         <td align="center">
+            <a href="https://www.figma.com/blog/our-response-to-ukraine/" rel="nofollow">
+               <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
+            </a>
+         </td>
       </tr>
       <tr>
          <td><a href="https://www.behance.net/" rel="nofollow">Behance</a></td>
@@ -293,7 +301,7 @@
          <td><a href="https://twitter.com/adobe" rel="nofollow">Adobe</a> - <a href="https://twitter.com/scottbelsky" rel="nofollow">Scott Belsky</a></td>
          <td><a href="https://www.linkedin.com/in/scottbelsky/" rel="nofollow">Scott Belsky</a></td>
          <td></td>
-         <td align="center"></td>
+         <td align="center"><g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji></td>
       </tr>
       <tr>
          <td><a href="https://dribbble.com/" rel="nofollow">Dribble</a></td>
@@ -302,6 +310,17 @@
          <td></td>
          <td align="center"></td>
       </tr>
+      <tr>
+         <td><a href="https://www.sketch.com/" rel="nofollow">Sketch</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center">
+            <a href="https://www.sketch.com/blog/2022/03/08/we-stand-with-ukraine/" rel="nofollow">
+               <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
+            </a>
+         </td>
+      </tr>
    </tbody>
 </table>
 
@@ -309,9 +328,9 @@
 <table>
    <thead>
       <tr>
-         <th>Имя</th>
-         <th>CEO Twitter</th>
-         <th>CEO Linkedin</th>
+         <th>Название</th>
+         <th>Контактное лицо #1</th>
+         <th>Контактное лицо #2</th>
          <th>Голосование</th>
          <th align="center">
             Вместе с
@@ -376,9 +395,9 @@
 <table>
    <thead>
       <tr>
-         <th>Имя</th>
-         <th>CEO Twitter</th>
-         <th>CEO Linkedin</th>
+         <th>Название</th>
+         <th>Контактное лицо #1</th>
+         <th>Контактное лицо #2</th>
          <th>Голосование</th>
          <th align="center">
             Вместе с
@@ -482,9 +501,9 @@
 <table>
    <thead>
       <tr>
-         <th>Имя</th>
-         <th>CEO Twitter</th>
-         <th>CEO Linkedin</th>
+         <th>Название</th>
+         <th>Контактное лицо #1</th>
+         <th>Контактное лицо #2</th>
          <th>Голосование</th>
          <th align="center">
             Вместе с
@@ -504,12 +523,23 @@
             </a>
          </td>
       </tr>
+       <tr>
+         <td><a href="https://www.toptal.com/" rel="nofollow">Toptal</a></td>
+         <td><a href="https://twitter.com/toptal" rel="nofollow">Toptal</a></td>
+         <td><a href="https://www.linkedin.com/in/tasod/" rel="nofollow">Taso Du Val</a></td>
+         <td><a href="https://chng.it/zTTK6LXk9S" rel="nofollow">Голосуем!</a></td>
+         <td align="center"></td>
+      </tr>
       <tr>
          <td><a href="https://www.fiverr.com/" rel="nofollow">Fiverr</a></td>
          <td><a href="https://twitter.com/michakaufman" rel="nofollow">Micha Kaufman</a></td>
          <td><a href="https://www.linkedin.com/in/michakaufman/" rel="nofollow">Micha Kaufman</a></td>
          <td></td>
-         <td align="center"></td>
+         <td align="center">
+            <a href="https://blog.fiverr.com/post/fiverr-suspends-business-in-russia" rel="nofollow">
+               <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
+            </a>
+         </td>
       </tr>
       <tr>
          <td><a href="https://www.freelancer.com/" rel="nofollow">Freelancer</a></td>
@@ -574,9 +604,9 @@
 <table>
    <thead>
       <tr>
-         <th>Имя</th>
-         <th>CEO Twitter</th>
-         <th>CEO Linkedin</th>
+         <th>Название</th>
+         <th>Контактное лицо #1</th>
+         <th>Контактное лицо #2</th>
          <th>Голосование</th>
          <th align="center">
             Вместе с
@@ -652,9 +682,9 @@
 <table>
    <thead>
       <tr>
-         <th>Имя</th>
-         <th>CEO Twitter</th>
-         <th>CEO Linkedin</th>
+         <th>Название</th>
+         <th>Контактное лицо #1</th>
+         <th>Контактное лицо #2</th>
          <th>Голосование</th>
          <th align="center">
             Вместе с
@@ -676,7 +706,7 @@
          <td><a href="https://store.steampowered.com/" rel="nofollow">Steam</a></td>
          <td><a href="https://twitter.com/gabelnewell" rel="nofollow">Gabe Newell</a></td>
          <td> - </td>
-         <td><a href="https://www.change.org/p/valve-disable-steam-in-russian-federation" rel="nofollow">Vote!</a><</td>
+         <td><a href="https://www.change.org/p/valve-disable-steam-in-russian-federation" rel="nofollow">Vote!</a></td>
          <td align="center"></td>
       </tr>
       <tr>
@@ -751,9 +781,9 @@
 <table>
    <thead>
       <tr>
-         <th>Имя</th>
-         <th>CEO Twitter</th>
-         <th>CEO Linkedin</th>
+         <th>Название</th>
+         <th>Контактное лицо #1</th>
+         <th>Контактное лицо #2</th>
          <th>Голосование</th>
          <th align="center">
             Вместе с
@@ -829,9 +859,9 @@
 <table>
    <thead>
       <tr>
-         <th>Имя</th>
-         <th>CEO Twitter</th>
-         <th>CEO Linkedin</th>
+         <th>Название</th>
+         <th>Контактное лицо #1</th>
+         <th>Контактное лицо #2</th>
          <th>Голосование</th>
          <th align="center">
             Вместе с
@@ -878,26 +908,19 @@
 
 - **[Cisco](https://www.cisco.com/)** 🇺🇦
 
-- **[JetBrains](https://www.jetbrains.com/)**
-    - Отзыв активации продуктов
-    - Запрет на свободное скачивание для временного пользования(trial)
+- **[JetBrains](https://blog.jetbrains.com/blog/2022/03/11/jetbrains-statement-on-ukraine/)** 🇺🇦
 
 - **[Slack](https://slack.com/)**
     - Блокировка сети для общения
     - Запрет на свободное скачивание
 
-- **[Atlassian](https://www.atlassian.com/)**
-    - Блокировка доступа для планирования
-
-- **[Slack](https://slack.com/)**
-    - Блокировка доступа для общения
+- **[Atlassian](https://www.atlassian.com/blog/announcements/atlassian-stands-with-ukraine)** 🇺🇦
 
 - **[Skype](https://www.skype.com/)**
     - Блокировка доступа для общения
 
 ## Вместе с 🇺🇦
 [Полный список](https://fakty.com.ua/ru/svit/rosiya/20220302-vid-apple-do-boeing-spysok-kompanij-yaki-pishly-z-rosijskogo-rynku-cherez-vijnu-v-ukrayini/)
-- **[Oracle](https://twitter.com/Oracle/status/1499058658583490568?s=20&t=UqZt3qE7gEzDj_KPLi1v6Q)** 🇺🇦
 - Apple Pay – полная блокировка
 - Apple – полный выход из рынка
 - AMD – запрет поставки микрочипов и вскоре запрет поставки видеокарт

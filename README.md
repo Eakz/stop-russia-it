@@ -33,8 +33,8 @@
    <thead>
       <tr>
          <th>Name</th>
-         <th>CEO Twitter</th>
-         <th>CEO Linkedin</th>
+         <th>Contact person #1</th>
+         <th>Contact person #2</th>
          <th>Vote</th>
          <th align="center">
             Stand with
@@ -107,8 +107,8 @@
          <td><a href="https://rubygems.org/" rel="nofollow">RubyGems</a></td>
          <td></td>
          <td></td>
-         <td></td>
-         <td align="center"></td>
+         <td><a href="https://github.com/rubygems/rubygems.org/issues/2977">Rubygems.org have no plan to ban Russia</a></td>
+         <td align="center">❌</td>
       </tr>
       <tr>
          <td><a href="https://bower.io/" rel="nofollow">bower</a></td>
@@ -195,8 +195,8 @@
    <thead>
       <tr>
          <th>Name</th>
-         <th>CEO Twitter</th>
-         <th>CEO Linkedin</th>
+         <th>Contact person #1</th>
+         <th>Contact person #2</th>
          <th>Vote</th>
          <th align="center">
             Stand with
@@ -210,14 +210,18 @@
          <td><a href="https://twitter.com/github" rel="nofollow">Github</a> - <a href="https://twitter.com/natfriedman" rel="nofollow">Nat Friedman</a> - <a href="https://twitter.com/mojombo/" rel="nofollow">Tom Preston-Werner</a></td>
          <td><a href="https://www.linkedin.com/in/mojombo/" rel="nofollow">Tom Preston-Werner</a></td>
          <td><a href="https://github.com/github/feedback/discussions/12042" rel="nofollow">Discussion</a> - <a href="https://www.change.org/p/github-ban-github-for-russian-developers" rel="nofollow">Petition</a></td>
-         <td align="center"></td>
+         <td align="center">❌</td>
       </tr>
       <tr>
          <td><a href="https://about.gitlab.com/" rel="nofollow">Gitlab</a></td>
          <td><a href="https://twitter.com/sytses" rel="nofollow">Sid Sijbrandij</a></td>
          <td><a href="https://www.linkedin.com/in/sijbrandij/" rel="nofollow">Sid Sijbrandij</a></td>
          <td></td>
-         <td align="center"></td>
+         <td align="center">
+            <a href="https://about.gitlab.com/blog/2022/03/11/gitlab-actions-to-date-regarding-russian-invasion-of-ukraine/" rel="nofollow">
+               <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
+            </a>
+         </td>
       </tr>
       <tr>
          <td><a href="https://bitbucket.org/" rel="nofollow">Bitbucket</a></td>
@@ -263,8 +267,8 @@
    <thead>
       <tr>
          <th>Name</th>
-         <th>CEO Twitter</th>
-         <th>CEO Linkedin</th>
+         <th>Contact person #1</th>
+         <th>Contact person #2</th>
          <th>Vote</th>
          <th align="center">
             Stand with
@@ -278,7 +282,11 @@
          <td><a href="https://twitter.com/figma" rel="nofollow">Figma</a> - <a href="https://twitter.com/zoink" rel="nofollow">Dylan Field</a> - <a href="https://twitter.com/evanwallace" rel="nofollow">Evan Wallace</a></td>
          <td><a href="https://www.linkedin.com/in/dylanfield/" rel="nofollow">Dylan Field</a></td>
          <td><a href="https://forum.figma.com/t/ukrainian-people-are-dying-close-figma-in-russia/15263" rel="nofollow">Vote closed</a></td>
-         <td align="center"></td>
+         <td align="center">
+            <a href="https://www.figma.com/blog/our-response-to-ukraine/" rel="nofollow">
+               <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
+            </a>
+         </td>
       </tr>
       <tr>
          <td><a href="https://www.behance.net/" rel="nofollow">Behance</a></td>
@@ -301,6 +309,17 @@
          <td></td>
          <td align="center"></td>
       </tr>
+      <tr>
+         <td><a href="https://www.sketch.com/" rel="nofollow">Sketch</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center">
+            <a href="https://www.sketch.com/blog/2022/03/08/we-stand-with-ukraine/" rel="nofollow">
+               <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
+            </a>
+         </td>
+      </tr>
    </tbody>
 </table>
 
@@ -309,8 +328,8 @@
    <thead>
       <tr>
          <th>Name</th>
-         <th>CEO Twitter</th>
-         <th>CEO Linkedin</th>
+         <th>Contact person #1</th>
+         <th>Contact person #2</th>
          <th>Vote</th>
          <th align="center">
             Stand with
@@ -376,8 +395,8 @@
    <thead>
       <tr>
          <th>Name</th>
-         <th>CEO Twitter</th>
-         <th>CEO Linkedin</th>
+         <th>Contact person #1</th>
+         <th>Contact person #2</th>
          <th>Vote</th>
          <th align="center">
             Stand with
@@ -482,8 +501,8 @@
    <thead>
       <tr>
          <th>Name</th>
-         <th>CEO Twitter</th>
-         <th>CEO Linkedin</th>
+         <th>Contact person #1</th>
+         <th>Contact person #2</th>
          <th>Vote</th>
          <th align="center">
             Stand with
@@ -504,11 +523,22 @@
          </td>
       </tr>
       <tr>
+         <td><a href="https://www.toptal.com/" rel="nofollow">Toptal</a></td>
+         <td><a href="https://twitter.com/toptal" rel="nofollow">Toptal</a></td>
+         <td><a href="https://www.linkedin.com/in/tasod/" rel="nofollow">Taso Du Val</a></td>
+         <td><a href="https://chng.it/zTTK6LXk9S" rel="nofollow">Vote!</a></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
          <td><a href="https://www.fiverr.com/" rel="nofollow">Fiverr</a></td>
          <td><a href="https://twitter.com/michakaufman" rel="nofollow">Micha Kaufman</a></td>
          <td><a href="https://www.linkedin.com/in/michakaufman/" rel="nofollow">Micha Kaufman</a></td>
          <td></td>
-         <td align="center"></td>
+         <td align="center">
+            <a href="https://blog.fiverr.com/post/fiverr-suspends-business-in-russia" rel="nofollow">
+               <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
+            </a>
+         </td>
       </tr>
       <tr>
          <td><a href="https://www.freelancer.com/" rel="nofollow">Freelancer</a></td>
@@ -574,8 +604,8 @@
    <thead>
       <tr>
          <th>Name</th>
-         <th>CEO Twitter</th>
-         <th>CEO Linkedin</th>
+         <th>Contact person #1</th>
+         <th>Contact person #2</th>
          <th>Vote</th>
          <th align="center">
             Stand with
@@ -652,8 +682,8 @@
    <thead>
       <tr>
          <th>Name</th>
-         <th>CEO Twitter</th>
-         <th>CEO Linkedin</th>
+         <th>Contact person #1</th>
+         <th>Contact person #2</th>
          <th>Vote</th>
          <th align="center">
             Stand with
@@ -675,7 +705,7 @@
          <td><a href="https://store.steampowered.com/" rel="nofollow">Steam</a></td>
          <td><a href="https://twitter.com/gabelnewell" rel="nofollow">Gabe Newell</a></td>
          <td> - </td>
-         <td><a href="https://www.change.org/p/valve-disable-steam-in-russian-federation" rel="nofollow">Vote!</a><</td>
+         <td><a href="https://www.change.org/p/valve-disable-steam-in-russian-federation" rel="nofollow">Vote!</a></td>
          <td align="center"></td>
       </tr>
       <tr>
@@ -694,7 +724,7 @@
          <td><a href="https://twitter.com/Avishai_ab" rel="nofollow">Avishai Abrahami</a></td>
          <td><a href="https://www.linkedin.com/in/abrahamiavishai/" rel="nofollow">Avishai Abrahami</a></td>
          <td></td>
-         <td align="center"></td>
+         <td align="center"><g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji></td>
       </tr>
       <tr>
          <td><a href="https://www.epicgames.com/" rel="nofollow">Epic Game</a></td>
@@ -751,8 +781,8 @@
    <thead>
       <tr>
          <th>Name</th>
-         <th>CEO Twitter</th>
-         <th>CEO Linkedin</th>
+         <th>Contact person #1</th>
+         <th>Contact person #2</th>
          <th>Vote</th>
          <th align="center">
             Stand with
@@ -829,8 +859,8 @@
    <thead>
       <tr>
          <th>Name</th>
-         <th>CEO Twitter</th>
-         <th>CEO Linkedin</th>
+         <th>Contact person #1</th>
+         <th>Contact person #2</th>
          <th>Vote</th>
          <th align="center">
             Stand with
@@ -877,26 +907,19 @@
 
 - **[Cisco](https://www.cisco.com/)** 🇺🇦
 
-- **[JetBrains](https://www.jetbrains.com/)**
-    - Revocation of product activation
-    - Blocking access on free download for trial use
+- **[JetBrains](https://blog.jetbrains.com/blog/2022/03/11/jetbrains-statement-on-ukraine/)** 🇺🇦
 
 - **[Slack](https://slack.com/)**
     - Network blocking for communication
     - Blocking access on free download
 
-- **[Atlassian](https://www.atlassian.com/)**
-    - Blocking access for planning
-
-- **[Slack](https://slack.com/)**
-    - Blocking access for communication
+- **[Atlassian](https://www.atlassian.com/blog/announcements/atlassian-stands-with-ukraine)** 🇺🇦
 
 - **[Skype](https://www.skype.com/)**
     - Blocking access for communication
 
 ## Together with 🇺🇦
 [Full list](https://fakty.com.ua/ua/svit/rosiya/20220302-vid-apple-do-boeing-spysok-kompanij-yaki-pishly-z-rosijskogo-rynku-cherez-vijnu-v-ukrayini/) UA
-- **[Oracle](https://twitter.com/Oracle/status/1499058658583490568?s=20&t=UqZt3qE7gEzDj_KPLi1v6Q)** 🇺🇦
 - Apple Pay - full lock
 - Apple is a complete exit from the market
 - AMD - a ban on the supply of microchips and soon a ban on the supply of video cards
